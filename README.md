@@ -11,7 +11,7 @@ These machines provide important insight about climate variability and are avail
 
 ![image2](https://www.whoi.edu/itp/images/itpall.jpg)
 
-(ITP machines in the Arctic Ocean, Dec 2020)
+(ITP machines in the Arctic Ocean, Dec 2020, source: Woods Hole Oceanographic Institution)
 
 For more information about ITP machines:
 https://www.whoi.edu/website/itp/overview
